@@ -1,0 +1,26 @@
+project:
+  type: website
+website:
+  title: "My Quarto Website"
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/yuyiqun03
+  search: true
+  contents:
+    - section: "Example Section"
+      contents:
+        - about.qmd
+  
+format:
+  html:
+    theme: "flatly"
+    highlight-style: "tango"
+    number-sections: true
+    
+editor: visual
+
