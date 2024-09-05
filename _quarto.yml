@@ -11,11 +11,7 @@ website:
       - icon: github
         href: https://github.com/yuyiqun03
   search: true
-  contents:
-    - section: "Example Section"
-      contents:
-        - about.qmd
-  
+
 format:
   html:
     theme: "flatly"
