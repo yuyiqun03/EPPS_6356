@@ -13,3 +13,16 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+## Assignment 1
+
+The tree image in the assignment 1
+
+![Tree](winter_tree.png)
+
+The chart in the assignment 1
+
+![chart](chart.png)
+
+critique:
+This chart is generally clear, but there is room for improvement. First, the color choices, especially the light green and orange lines, may not be easily distinguishable for people with visual impairments or color blindness. The authors should use a more contrasting color palette would help. The thin lines make it difficult to differentiate trends, particularly where multiple lines intersect, so thicker lines would improve visibility. While the text labels next to the lines are helpful, the vertical red line lacks explanation, and adding a note would improve clarity. Additionally, the different y-axis ranges between the panels could lead to confusion, so clearer labeling or consistency would be beneficial. Overall, the chart is informative but could increase accessibility and readability through better color and line design.

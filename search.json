@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "test1",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#assignment-1",
+    "href": "index.html#assignment-1",
+    "title": "test1",
+    "section": "1 Assignment 1",
+    "text": "1 Assignment 1\nThe tree image in the assignment 1\n\n\n\nTree\n\n\nThe chart in the assignment 1\n\n\n\nchart\n\n\ncritique: This chart is generally clear, but there is room for improvement. First, the color choices, especially the light green and orange lines, may not be easily distinguishable for people with visual impairments or color blindness. The authors should use a more contrasting color palette would help. The thin lines make it difficult to differentiate trends, particularly where multiple lines intersect, so thicker lines would improve visibility. While the text labels next to the lines are helpful, the vertical red line lacks explanation, and adding a note would improve clarity. Additionally, the different y-axis ranges between the panels could lead to confusion, so clearer labeling or consistency would be beneficial. Overall, the chart is informative but could increase accessibility and readability through better color and line design."
   }
 ]
