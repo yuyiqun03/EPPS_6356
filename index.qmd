@@ -1,0 +1,14 @@
+---
+title: "Introduction"
+author: "Yiqun Yu"
+format: 
+  html:
+    theme: "flatly"
+
+---
+
+This website was created for the EPPS 6356 course with the purpose of showcasing the knowledge gained during the class and displaying the assignments. The navigation menu includes two buttons: "Assignment" and "Prepare for Class", which respectively contain the content for assignment submissions and class preparation materials.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
