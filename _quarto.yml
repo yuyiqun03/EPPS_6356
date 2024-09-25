@@ -26,7 +26,7 @@ format:
   html:
     theme: "flatly"
     highlight-style: "tango"
-    number-sections: true
+    number-sections: false
     css: styles.css
     
 editor: visual
