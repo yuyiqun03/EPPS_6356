@@ -1,17 +1,20 @@
 ---
-title: "Assignment 1"
+title: "Assignment 2"
 author: "Yiqun Yu"
 format: 
   html:
     theme: "flatly"
 ---
 
-### The tree image in the assignment 1
+### Happy Planet Index
 
-![Tree](winter_tree.png)
+![6 plots](assignment2.png) This set of six charts explores data from the **Happy Planet Index**:
 
-### The chart in the assignment 1
+1.  **Scatter Plot**: Shows the average HPI for each continent.
+2.  **Bar Plot**: Compares mean HPI values across continents.
+3.  **Pie Chart**: Displays the proportion of total HPI by continent.
+4.  **Box Plot**: Visualizes HPI distribution by continent, including outliers and averages (red dots).
+5.  **Histogram with Density Curve**: Shows the distribution of HPI values for all countries.
+6.  **3D Perspective Plot**: Illustrates the relationship between HPI, GDP per capita, and life expectancy.
 
-![chart](chart.png)
-
-critique: This chart is generally clear, but there is room for improvement. First, the color choices, especially the light green and orange lines, may not be easily distinguishable for people with visual impairments or color blindness. The authors should use a more contrasting color palette would help. The thin lines make it difficult to differentiate trends, particularly where multiple lines intersect, so thicker lines would improve visibility. While the text labels next to the lines are helpful, the vertical red line lacks explanation, and adding a note would improve clarity. Additionally, the different y-axis ranges between the panels could lead to confusion, so clearer labeling or consistency would be beneficial. Overall, the chart is informative but could increase accessibility and readability through better color and line design.
+These visualizations highlight key trends in global happiness and sustainability.
