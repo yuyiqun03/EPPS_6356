@@ -1,0 +1,67 @@
+---
+title: "Assignment 5"
+author: "Yiqun Yu"
+format: 
+  html:
+    theme: "flatly"
+---
+
+### R Built-in Function and ggplot2 Graphs
+
+# Introduction
+
+In this assignment, I created 12 graphs using both R built-in graphics functions and `ggplot2`. Each set of charts includes the following types: - Histogram - Vertical and Horizontal Bar Charts - Pie Chart - Boxplot - Scatterplot
+
+For each graph type, I used both **R's built-in functions** and **`ggplot2`**, with customized styles. Finally, I exported the graphs in various formats: `.pdf`, `.jpg`, `.svg`, `.tiff`, and `.bmp`.
+
+### R Built-in Function Graphs
+
+#### Histogram
+
+![Built-in Histogram pdf format](Built-in_Histogram.pdf)
+
+#### Vertical Bar Chart
+
+![Built-in Vertical Bar Chart jpeg format](Built-in_vertical_bar.jpeg)
+
+#### Horizontal Bar Chart
+
+![Built-in Horizontal Bar Chart jpeg format](Built-in_horizontal_bar.jpeg)
+
+#### Pie Chart
+
+![Built-in Pie Chart png format](Built-in_pie.png)
+
+#### Boxplot
+
+![Built-in Boxplot tiff format](Built-in_box.tiff)
+
+#### Scatterplot
+
+![Built-in Scatterplot bmp format](Built-in_scatter.bmp)
+
+### ggplot2 Graphs
+
+#### Histogram
+
+![ggplot2 Histogram pdf format](ggplot2_histogram.pdf)
+
+#### Vertical Bar Chart
+
+![ggplot2 Vertical Bar Chart jpeg format](ggplot2_vertical_bar.jpeg)
+
+#### Horizontal Bar Chart
+
+![ggplot2 Horizontal Bar Chart jpeg format](ggplot2_horizontal_bar.jpeg)
+
+#### Pie Chart
+
+![ggplot2 Pie Chart svg format](pie_chart.svg)
+
+#### Boxplot
+
+![ggplot2 Boxplot tiff format](ggplot2_box.tiff)
+
+#### Scatterplot
+
+![ggplot2 Scatterplot bmp format](Rplotggplot2_scatter.bmp)
