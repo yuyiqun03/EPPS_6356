@@ -1,0 +1,14 @@
+---
+title: "Assignment 6"
+author: "Yiqun Yu"
+format: 
+  html:
+    theme: "flatly"
+---
+
+## Shiny App
+#### This Shiny app offers interactive data visualizations using four datasets: mtcars, USArrests, uspop, and a special focus on the Texas gender wage gap. Users can explore the trends in log wage differences between males and females across various percentiles in Texas from 1990 to 2022. The app allows users to visualize the wage gap over time with customizable percentile selections or display detailed wage distributions for a specific year.
+
+<iframe width="800" height="600"
+src="https://yiqunyu.shinyapps.io/assignment_06_github/"
+frameborder="0" allowfullscreen></iframe>
