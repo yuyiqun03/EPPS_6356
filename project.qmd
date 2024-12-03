@@ -1,0 +1,14 @@
+---
+title: "Project"
+author: "Yiqun Yu"
+format: 
+  html:
+    theme: "flatly"
+---
+
+## Final Project Dashboard
+#### This dashboard was created using an Rmd file and presents the visualizations for the final project.
+
+<iframe width="1000" height="900"
+src="https://yiqunyu.shinyapps.io/project/"
+frameborder="0" allowfullscreen></iframe>

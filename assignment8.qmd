@@ -1,0 +1,14 @@
+---
+title: "Assignment 8"
+author: "Yiqun Yu"
+format: 
+  html:
+    theme: "flatly"
+---
+
+## Dashboard
+#### This dashboard was created using an Rmd file and presents the visualizations for the final project. It contains the same content as the 'Project' page in the menu, which is also showcased in Assignment 8.
+
+<iframe width="1000" height="900"
+src="https://yiqunyu.shinyapps.io/project/"
+frameborder="0" allowfullscreen></iframe>

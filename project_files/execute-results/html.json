@@ -1,0 +1,11 @@
+{
+  "hash": "411543be3ae9b677e522702687c04a08",
+  "result": {
+    "markdown": "---\ntitle: \"Project\"\nauthor: \"Yiqun Yu\"\nformat: \n  html:\n    theme: \"flatly\"\n---\n\n<h2>Data Visualization Project</h2>\n\n### Introduction \n\n<p>\nThis project visualizes the changes in employment trends within the computer science industry following the emergence of smartphones. It utilizes CPS data from the IPUMS database as the primary data source.\n\n***\n\nPrerequisite: install.packages(c(\"plotly\",\"ggplot2\",\"flexdashboard\",\"rbokeh\",\"leaflet\", \"mapview\", \"tidycensus\"))\n\nThis storyboard delivers the final project product by exhibiting the final project in pages.\n\n### Data showcase 1: Annual Trend of the Proportion of Computer-Related Occupations\n\n\n```{qmd}\n\nlibrary(ggplot2)\nlibrary(plotly)\nfiltered_percent_by_year=read.csv(\"https://raw.githubusercontent.com/yuyiqun03/EPPS_6356/refs/heads/main/filtered_percent_by_year.csv\")\n# Create ggplot\np <- ggplot(filtered_percent_by_year, aes(x = YEAR, y = percent)) +\n  geom_line() +\n  geom_point() +\n  labs(\n    title = \"Annual Trend of the Proportion of Computer-Related Occupations\",\n    x = \"YEAR\",\n    y = \"Percentage\"\n  ) +\n  theme_minimal()\n\n# 转换为交互式图表\nggplotly(p, tooltip = c(\"x\", \"y\"))\n\n```\n\n",
+    "supporting": [
+      "project_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
