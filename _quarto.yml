@@ -19,6 +19,8 @@ website:
             href: assignment6.qmd
           - text: "Assignment 8"
             href: dashboard.html
+          - text: "Final Project"
+            href: project.html
       - text: "Prepare for Class"
         menu:
           - text: "Prepare 4"
