@@ -7,7 +7,8 @@ format:
 ---
 
 ## Final Project Dashboard
-#### This dashboard was created using an Rmd file and presents the visualizations for the final project.
+#### This dashboard was created using an Rmd file and presents the visualizations for the final project. 
+#### Groump member: Yiqun Yu, Zhuoqun Li, Hao Mou, and Hritik Arasu
 
 <iframe width="1000" height="900"
 src="https://yiqunyu.shinyapps.io/project/"
